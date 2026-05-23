@@ -18,6 +18,6 @@ You can find my **CVEs**, **vulnerabilities research**, and **responsible disclo
 
 ---
 ## Responsible disclosure - Nafes
-- Discovered and responsibly disclosed a critical backend vulnerability (9.8 CVSS) that led to the exposure of sensitiv>
+- Discovered and responsibly disclosed a critical backend vulnerability (9.8 CVSS) that led to the exposure of sensitive user data, including Personally Identifiable Information (PII) which affected over 50,000 users and allowing full control of the API.
 
 ![NAFES Responsible Disclosure Letter](./nafes.jpg)
