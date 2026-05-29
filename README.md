@@ -15,7 +15,7 @@ You can find my **CVEs**, **vulnerabilities research**, and **responsible disclo
 
 [HaxCMS Stored Cross-Site Scripting (XSS) Security Advisory](https://github.com/advisories/GHSA-g2g8-95qg-v35h)
 
-[HaxCMS Stored Cross-Site Scripting (XSS) CVE.ORG](https://www.cve.org/CVERecord?id=CVE-2026-48527)
+[HaxCMS Stored Cross-Site Scripting (XSS) cve.org](https://www.cve.org/CVERecord?id=CVE-2026-48527)
 
 
 ---
