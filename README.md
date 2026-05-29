@@ -13,7 +13,7 @@ You can find my **CVEs**, **vulnerabilities research**, and **responsible disclo
 ---
 ## Public References
 
-[HaxCMS Stored Cross-Site Scripting (XSS)](https://github.com/haxtheweb/issues/security/advisories/GHSA-g2g8-95qg-v35h)
+[HaxCMS Stored Cross-Site Scripting (XSS)](https://github.com/advisories/GHSA-g2g8-95qg-v35h)
 
 
 ---
