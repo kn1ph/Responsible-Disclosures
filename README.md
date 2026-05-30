@@ -5,10 +5,10 @@ You can find my **CVEs**, **vulnerabilities research**, and **responsible disclo
 
 ## CVEs
 
-| CVE ID | Project | Vulnerability Type | Severity |
-|---|---|---|---|
-| CVE-2026-47170 | **PROCESSING CVE** | Server-Side Request Forgery (SSRF) | **High (7.7 CVSS)** |
-| CVE-2026-48527 | HaxCMS | Stored Cross-Site Scripting (XSS) Sanitizer Bypass | **High (8.7 CVSS)** |
+| CVE ID | Project | Vulnerability Type | Severity | CVSS
+|---|---|---|---|---|
+| CVE-2026-47170 | **PROCESSING CVE** | Server-Side Request Forgery (SSRF) | **High** | 7.7
+| CVE-2026-48527 | HaxCMS | Stored Cross-Site Scripting (XSS) Sanitizer Bypass | **High)** | 8.7
 
 ---
 ## Public References
