@@ -1,6 +1,6 @@
 # Responsible Disclosure
 
-Here are my **CVEs**, **vulnerabilities research**, and **responsible disclosures** :)
+**CVEs**, **vulnerabilities research**, and **responsible disclosures** :)
 
 
 ## CVEs
